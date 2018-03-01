@@ -1,0 +1,18 @@
+Git clone Repository url
+git status
+git add index.html
+git commit -m "added new file      "
+git add -a
+
+in case of conflict
+do the changes and 
+esc :wq
+to list branch
+git branch
+to create branch
+git branch avi
+to list branch
+git branch
+to change branch
+git checkout avi  
+
