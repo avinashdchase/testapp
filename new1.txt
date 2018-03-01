@@ -1,0 +1,4 @@
+Git clone Repository url
+git status
+git add index.html
+git commit -m "added new file      "
